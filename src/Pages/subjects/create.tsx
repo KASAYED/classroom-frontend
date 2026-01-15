@@ -1,7 +1,7 @@
-const SubjectsList = () => {
-    return (
-        <div>List</div>
-    )
-}
+import React from "react";
 
-export default SubjectsList
+const SubjectsCreate = () => {
+    return <p>Create Subject</p>;
+};
+
+export default SubjectsCreate;
